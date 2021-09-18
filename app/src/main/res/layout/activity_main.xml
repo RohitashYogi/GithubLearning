@@ -43,7 +43,7 @@
             android:padding="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button From Mater Branch"
+            android:text="Button Main Deverloper"
             android:textSize="16dp"
 
             >

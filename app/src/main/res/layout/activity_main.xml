@@ -43,7 +43,7 @@
             android:padding="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="New Button Is Here"
+            android:text="Button From Mater Branch"
             android:textSize="16dp"
 
             >

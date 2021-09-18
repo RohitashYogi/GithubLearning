@@ -35,7 +35,7 @@
         app:layout_constraintTop_toBottomOf="@id/text2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button From Rohit Developer into Master Branch"
+        android:text="Private repo Dev_Rohit First Commit"
       ></Button>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

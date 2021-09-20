@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "GithubLearning"
 include ':app'
+include ':FirstLibarary'
